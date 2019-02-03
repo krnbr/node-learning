@@ -1,0 +1,19 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "Learning Node JS and JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krnbr/node-learning.git"
+  },
+  "author": "Karanbir Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krnbr/node-learning/issues"
+  },
+  "homepage": "https://github.com/krnbr/node-learning#readme"
+}
