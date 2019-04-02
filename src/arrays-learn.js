@@ -10,4 +10,9 @@ console.log(arr);
 arr.shift();
 console.log(arr);
 
-// array as devlared
+// array as declared Array type obj
+
+let arry = new Array();
+let i = 1;
+arry.push(1,3,5,7);
+console.log(arry);
