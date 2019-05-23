@@ -3,7 +3,13 @@
     "module": "commonjs",
     "target": "es5",
     "sourceMap": true,
-    "outDir": "target"
+    "outDir": "target",
+    "lib": [
+      "dom",
+      "es5",
+      "scripthost",
+      "es2015.promise"
+    ]
   },
   "include": [
     "src/*",
